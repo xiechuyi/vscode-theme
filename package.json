@@ -1,0 +1,21 @@
+{
+    "name": "zzeeui",
+    "displayName": "zzeeui",
+    "description": "a perfect theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "xly",
+                "uiTheme": "vs-dark",
+                "path": "./themes/xly-color-theme.json"
+            }
+        ]
+    }
+}
